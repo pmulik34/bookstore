@@ -10,6 +10,12 @@ npm install boxicons --save
 npm install @reduxjs/toolkit
 npm install react-redux
 npm install react-router-dom@6
+```
 
+## To run the application locally, use the following command:
 ```bash
-Hello
+npm run dev
+```
+## Deployment
+The project is deployed on Netlify. You can access the deployed version at the following link:
+https://booksstoresapp.netlify.app/
