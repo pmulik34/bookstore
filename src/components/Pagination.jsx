@@ -49,7 +49,6 @@ const Pagination = ({ currentPage, totalPages, handlePageChange }) => {
     }
   }
 
-  // JSX for rendering the pagination component
   return (
     <div className="row mt-4">
       <div className="col-12 d-flex justify-content-center">
